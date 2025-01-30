@@ -89,16 +89,5 @@ As with every project, **limited resources** (time and computational power) pose
 - **Lengthy training times** limited experimentation with **hyperparameter tuning** and **alternative models**.  
 - **Deploying in a cloud-based environment** with scalable resources **could have enabled faster experimentation** and **testing of more sophisticated algorithms**.  
 
----
-
-## 📢 **Final Thoughts**  
-Despite the challenges, this project demonstrated the **potential of machine learning** in **automating claim processing** and improving **operational efficiency** for the **New York Workers’ Compensation Board**.  
-
-📌 **This project serves as a foundation** for further **optimization and deployment in real-world settings!** 🚀  
-
----
-
-👨‍💻 **Author:**  
-✉️ **Jorge Cordeiro**  
 
 
